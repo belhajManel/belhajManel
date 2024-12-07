@@ -20,7 +20,7 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<img src="https://github.com/belhajManel/belhajManel/blob/main/assets/bonfire.gif?raw=true" width="200"/>
+<img src="https://github.com/belhajManel/belhajManel/blob/main/assets/bonefire.gif?raw=true" width="200"/>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=belhajmanel&label=Profile%20views&color=0e75b6&style=flat" alt="belhajmanel" /> 
